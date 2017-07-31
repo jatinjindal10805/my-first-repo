@@ -1,27 +1,17 @@
-#  this is large heading
-## this is smaller heading
+# jatin jindal
 
-and as **imagination** bodies forth , the forms of thigs *unknown*,the poet's pen,
-turns them to shapes and gives to airy nothing,
-a local *habitation* and a **name**.
+### Geography
 
-- this is
-- an unordered list
-- list
+I live in the city of New Delhi,in the India.
 
-1. this is 
-2. an ordered
-3. lis t
+### Hobbies
 
-Here is `some code` in the middle of a sentence .
+Three of my favourite hobbies are :-
 
-```
-this is
-a block
-of code
-```
-here is how to make [a link]
-(https://www.wikipedia.org/).
+- *Cricket*
+- *Vide games*
+- *Coding*
 
+### contact
 
-![this is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+The best way to get in touch with me  is [on Instagram](https://instagram.com/jatin4645).
