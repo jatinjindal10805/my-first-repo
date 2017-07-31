@@ -25,5 +25,3 @@ here is how to make [a link]
 
 
 ![this is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano readme.md
